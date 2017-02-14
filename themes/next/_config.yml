@@ -133,8 +133,8 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
-  #LinkLabel: Link
-
+  GitHub: https://github.com/codelsc
+  Weibo: http://weibo.com/p/1005052817241284/home
 
 # Social Links Icons
 # Icon Mapping:
