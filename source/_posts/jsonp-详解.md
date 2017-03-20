@@ -1,11 +1,11 @@
 ---
 title: jsonp 详解
 date: 2013-02-10 08:53:56
-categories: 
- - javascript 
-tags: 
+categories:
+ - javascript
+tags:
  - jsonp
- - 跨域 
+ - 跨域
 ---
 # 同源策略
 首先基于安全的原因，浏览器是存在同源策略这个机制的，同源策略阻止从一个源加载的文档或脚本获取或设置另一个源加载的文档的属性。看起来不知道什么意思，实践一下就知道了。
